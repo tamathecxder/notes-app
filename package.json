@@ -4,7 +4,8 @@
   "description": "Ini adalah aplikasi catatan web sederhana yang dibangun dengan Hapi.js. Pengguna dapat membuat, membaca, memperbarui, dan menghapus catatan melalui aplikasi.",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon server.js",
+    "lint": "eslint ./"
   },
   "repository": {
     "type": "git",
