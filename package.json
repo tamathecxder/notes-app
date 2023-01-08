@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/tamathecxder/notes-app#readme",
   "dependencies": {
+    "@hapi/hapi": "^21.1.0",
     "node": "^19.3.0"
   },
   "devDependencies": {
